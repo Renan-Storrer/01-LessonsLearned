@@ -32,8 +32,9 @@ aside {
 }
 
 #licoes_aprendidas {
+    background-color:  rgb(243, 240, 240);
     margin-top: 310px;
-    border: solid red;
+  
 }
 
 article {
@@ -42,7 +43,7 @@ article {
 }
 
 #licoes_a_aprender {
-    border: solid red;
+    background-color: rgb(243, 240, 240);
     margin-top: 10px;
 }
 
