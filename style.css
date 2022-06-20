@@ -1,6 +1,6 @@
 * {
     margin: 0;
-    font-family: 'Courier New', Courier, monospace;;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 body {
@@ -9,15 +9,14 @@ body {
 
 #cabecalho {
     padding: 5px;
-    border: 3px solid rgb(0, 2, 0) ;
+    border: 3px solid rgb(0, 2, 0);
     top: 0;
     position: fixed;
     background-color: #2fc18c;
     color: white;
-   
 }
 
-#nome{
+#nome {
     font-size: 35px;
     color: white;
     text-align: center;
@@ -38,9 +37,8 @@ aside {
 }
 
 #licoes_aprendidas {
-    background-color:  rgb(243, 240, 240);
+    background-color: rgb(243, 240, 240);
     margin-top: 200px;
-  
 }
 
 article {
@@ -53,7 +51,7 @@ article {
 }
 
 footer {
-    margin: 0px;
+    margin: 1px;
     padding: 15px;
     color: white;
     background-color: #333;
