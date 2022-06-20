@@ -20,15 +20,33 @@ body {
 }
 
 aside {
+    position: absolute;
     font-family: monospace;
     font-size: 25px;
     margin-top: 100px;
     margin-left: 330px;
     margin-right: 50px;
     text-align: center;
+    border: solid red;
 
 }
 
 #licoes_aprendidas {
-    margin-top: 250px;
+    margin-top: 310px;
+    border: solid red;
+}
+
+article {
+    margin-top: 10px;
+    border: solid red;
+}
+
+#licoes_a_aprender {
+    border: solid red;
+    margin-top: 10px;
+}
+
+footer {
+    color: white;
+    background-color: #333;
 }
