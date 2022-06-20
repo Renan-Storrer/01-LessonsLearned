@@ -48,6 +48,8 @@ article {
 }
 
 footer {
+    margin: 0px;
+    padding: 15px;
     color: white;
     background-color: #333;
 }
