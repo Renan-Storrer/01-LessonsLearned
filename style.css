@@ -1,4 +1,4 @@
-*{
+* {
     margin: 0;
 }
 
@@ -11,12 +11,12 @@ body {
     padding: 25px;
     text-align: center;
     color: white;
-    margin-top: 0;
+    top: 0;
 }
 
 #minha_foto {
     height: 300px;
-    position:absolute ;
+    position: absolute;
 }
 
 aside {
@@ -26,7 +26,7 @@ aside {
     margin-left: 330px;
     margin-right: 50px;
     text-align: center;
-    
+
 }
 
 #licoes_aprendidas {
