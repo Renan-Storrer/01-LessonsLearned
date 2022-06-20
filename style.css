@@ -7,33 +7,38 @@ body {
 }
 
 #cabecalho {
+    padding: 5px;
+    border: 3px solid rgb(0, 2, 0) ;
     top: 0;
     position: fixed;
     background-color: #2fc18c;
-    text-align: center;
     color: white;
    
 }
 
+#nome{
+    font-size: 35px;
+    color: white;
+    text-align: center;
+    background-color: #2fc18c;
+}
+
 #minha_foto {
     height: 300px;
-    position: absolute;
+    margin-top: 5px;
 }
 
 aside {
-    position: absolute;
     font-family: monospace;
     font-size: 25px;
-    margin-top: 100px;
-    margin-left: 330px;
-    margin-right: 50px;
-    text-align: center;
+    margin-left: 350px;
+    margin-top: -250px;
 
 }
 
 #licoes_aprendidas {
     background-color:  rgb(243, 240, 240);
-    margin-top: 310px;
+    margin-top: 200px;
   
 }
 
