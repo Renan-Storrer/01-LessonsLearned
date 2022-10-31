@@ -1,5 +1,7 @@
 * {
     margin: 0;
+    padding: 0;
+    border: 0;
     font-family: 'Courier New', Courier, monospace;
 }
 
@@ -28,21 +30,9 @@ body {
     margin-top: 5px;
 }
 
-aside {
-    font-family: monospace;
-    font-size: 24px;
-    margin-left: 350px;
-    margin-top: -250px;
-
-}
-
 #licoes_aprendidas {
     background-color: rgb(243, 240, 240);
     margin-top: 200px;
-}
-
-article {
-    margin-top: 10px;
 }
 
 #licoes_a_aprender {
@@ -70,4 +60,8 @@ footer a {
 
 footer a:hover{
     cursor: pointer;
+}
+
+.lado {
+    display: flex;
 }
